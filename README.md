@@ -1,11 +1,11 @@
 # Projects
 My first repository on github,
 
-Deep Learning Digit Classifier, Built using basic libraries
+#Deep Learning Digit Classifier, Built using basic libraries
 
 
 
-istudio project on student performance analysis
+#istudio project on student performance analysis
 
 dataset available on kaggle
 
